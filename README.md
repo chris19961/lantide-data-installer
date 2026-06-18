@@ -27,11 +27,8 @@ Hot-update assets (`update-win.zip`, `update-mac.zip`, `version_meta.json`) are 
 
 | Channel | Repository | Contents |
 | ------- | ---------- | -------- |
-| Source code | [lantide-data](https://github.com/chris19961/lantide-data) | Development |
 | Hot updates | [lantide-data-releases](https://github.com/chris19961/lantide-data-releases) | `version_meta.json`, platform zips |
 | **Installers (this repo)** | **lantide-data-installer** | NSIS / DMG per release |
-
-Release process: see internal SOP `Docs/hot-update-release.md` in the main repo (flows B & C).
 
 Do **not** commit build artifacts to git — use GitHub Releases only.
 
