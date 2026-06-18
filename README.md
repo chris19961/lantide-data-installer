@@ -1,6 +1,6 @@
 # Lantide Data — Installers
 
-Public release channel for **full desktop installers** of [Lantide Data](https://github.com/chris19961/lantide-data).
+Public release channel for **full desktop installers** of Lantide Data.
 
 This repository contains **installers only** — no application source code.
 
